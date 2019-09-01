@@ -10,7 +10,7 @@
 ## Installation
 ### Clone
 ```
-$ git clone https://github.com/zidni0192/bugStackGame-BackEnd
+$ git clone https://github.com/Arizal-Arkan/Backend-Gangdream.git
 $ cd bugStackGame-BackEnd
 $ npm install
 ```
@@ -27,7 +27,7 @@ DB_USER="Your_Username"
 DB_PASSWORD="Your_Password"
 DB_NAME="Your_Table"
 
-SERVER_PORT=9999
+SERVER_PORT=2001
 ```
 ### Start Development Server
 ```
